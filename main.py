@@ -89,7 +89,7 @@ def main()->None:
     elif choice == 0:
         quit()
     else:
-        sys.exit("Invalid Selection! Exiting...1")
+        sys.exit("Invalid Selection! Exiting...")
 
 if __name__=="__main__":
     main()
